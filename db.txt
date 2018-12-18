@@ -50,8 +50,8 @@ cdk //chedaki
 
 Setting:
 
-mrk_r //red grids
-mrk_g //green grids
+mrkr //red grids
+mrkg //green grids
 ied //list of ieds. WIP (store position and classname)
 cache //list of caches. WIP (store position and classname)
 veh //List of vehicles. WIP (store position, classname, damage, ammo)
